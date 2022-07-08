@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//Hello Shital
+//Hello Wajid
 namespace Multitreading
 {
     class Person
